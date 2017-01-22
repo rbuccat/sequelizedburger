@@ -1,0 +1,58 @@
+body{
+	background: #FAEBD7;
+	font-family: Tahoma;	
+}
+.noteaten {
+	float: left;
+	width: 50%;
+}
+
+.noteaten ol {
+	margin-left: 250px;	
+}
+
+.eaten {
+	float: right;
+	width: 50%;
+}
+
+img {
+	width: 20%;
+	margin: 0 auto 0 auto; 
+	display: block;	
+}
+
+h1 {
+	margin-top: -10px;	
+	text-align: center;
+	color: orange;
+}
+
+li {
+  /*background: #FFF;*/	
+  background: #FFF;
+  border: 1px solid #FFF;
+  list-style-position:inside;						
+  font-size: 12px;
+  padding-top: 10px;
+  margin-left: 35px;
+  margin-bottom: 15px;
+  width: 200px;
+  text-align: center;		
+}
+
+li button {
+	width: 75px;
+	margin: -25px 0 0 220px;
+}
+
+.create-update-form {
+  margin: 5px;
+  padding: 5px;
+  clear: both;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
